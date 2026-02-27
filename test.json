@@ -1,0 +1,15 @@
+{
+    "pickupAddress": "22.98323, 120.22665",
+    "pickupLat": 22.98322502202883,
+    "pickupLng": 120.22665404870015,
+    "dropoffAddress": "",
+    "dropoffLat": null,
+    "dropoffLng": null,
+    "phone": "0900762272",
+    "status": "dropped_off",
+    "driver": {
+        "driverId": "0900123456",
+        "name": "司機",
+        "phone": "0900123456"
+    }
+}

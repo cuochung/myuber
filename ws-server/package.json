@@ -1,0 +1,14 @@
+{
+  "name": "myuber-ws-server",
+  "version": "1.0.0",
+  "description": "WebSocket 即時通知服務（派遣系統：司機接單、配對結果、位置更新）",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
